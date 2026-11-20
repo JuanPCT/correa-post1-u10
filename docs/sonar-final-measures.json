@@ -1,0 +1,66 @@
+{
+  "component": {
+    "key": "envios-service",
+    "name": "envios-service",
+    "qualifier": "TRK",
+    "measures": [
+      {
+        "metric": "coverage",
+        "value": "100.0",
+        "bestValue": true
+      },
+      {
+        "metric": "bugs",
+        "value": "0",
+        "bestValue": true
+      },
+      {
+        "metric": "complexity",
+        "value": "19"
+      },
+      {
+        "metric": "code_smells",
+        "value": "0",
+        "bestValue": true
+      },
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      {
+        "metric": "branch_coverage",
+        "value": "100.0",
+        "bestValue": true
+      },
+      {
+        "metric": "cognitive_complexity",
+        "value": "7",
+        "bestValue": false
+      },
+      {
+        "metric": "vulnerabilities",
+        "value": "0",
+        "bestValue": true
+      },
+      {
+        "metric": "line_coverage",
+        "value": "100.0",
+        "bestValue": true
+      },
+      {
+        "metric": "sqale_index",
+        "value": "0",
+        "bestValue": true
+      },
+      {
+        "metric": "new_code_smells",
+        "period": {
+          "index": 1,
+          "value": "0",
+          "bestValue": true
+        }
+      }
+    ]
+  }
+}

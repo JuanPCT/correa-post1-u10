@@ -13,4 +13,4 @@ La CC inicial es el conteo de la regla de complejidad ciclomática de Sonar para
 
 JaCoCo mide bytecode ejecutado por las pruebas, no la calidad semántica de las expectativas. Los casos finales asertan los cuatro valores base, recargos, límites y error de configuración. La métrica anterior corresponde al baseline de dos pruebas y la posterior a la suite extendida, por lo que el aumento de cobertura se debe a los casos adicionales; no se atribuye a Strategy por sí sola.
 
-No se ejecutó SonarQube Server ni SonarQube Cloud. CC es cálculo estático verificable sobre este método; los valores de JaCoCo sí salen del XML local. El Quality Profile, deuda, issues de seguridad/fiabilidad y Quality Gate remoto quedan pendientes de análisis con credenciales del proyecto.
+El [informe de SonarQube](docs/sonarqube.md) contiene las mediciones del servidor local y el resultado del gate.

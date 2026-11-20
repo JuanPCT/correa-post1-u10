@@ -1,0 +1,377 @@
+{
+  "total": 1,
+  "p": 1,
+  "ps": 100,
+  "paging": {
+    "pageIndex": 1,
+    "pageSize": 100,
+    "total": 1
+  },
+  "effortTotal": 20,
+  "issues": [
+    {
+      "key": "26a028fb-8719-4baa-9265-ab572b27bc69",
+      "rule": "java:S1541",
+      "severity": "CRITICAL",
+      "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+      "project": "envios-service",
+      "hash": "f5adf554594561cd0640d460eb96c168",
+      "textRange": {
+        "startLine": 5,
+        "endLine": 5,
+        "startOffset": 18,
+        "endOffset": 31
+      },
+      "flows": [
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 5,
+                "endLine": 5,
+                "startOffset": 18,
+                "endOffset": 31
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 7,
+                "endLine": 7,
+                "startOffset": 8,
+                "endOffset": 10
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 8,
+                "endLine": 8,
+                "startOffset": 8,
+                "endOffset": 10
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 10,
+                "endLine": 10,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 11,
+                "endLine": 11,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 12,
+                "endLine": 12,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 14,
+                "endLine": 14,
+                "startOffset": 8,
+                "endOffset": 10
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 16,
+                "endLine": 16,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 17,
+                "endLine": 17,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 18,
+                "endLine": 18,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 19,
+                "endLine": 19,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 21,
+                "endLine": 21,
+                "startOffset": 8,
+                "endOffset": 10
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 23,
+                "endLine": 23,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 24,
+                "endLine": 24,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 25,
+                "endLine": 25,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 26,
+                "endLine": 26,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 28,
+                "endLine": 28,
+                "startOffset": 8,
+                "endOffset": 10
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 30,
+                "endLine": 30,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 31,
+                "endLine": 31,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        },
+        {
+          "locations": [
+            {
+              "component": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+              "textRange": {
+                "startLine": 32,
+                "endLine": 32,
+                "startOffset": 12,
+                "endOffset": 14
+              },
+              "msg": "+1",
+              "msgFormattings": []
+            }
+          ]
+        }
+      ],
+      "resolution": "FIXED",
+      "status": "CLOSED",
+      "message": "The Cyclomatic Complexity of this method \"calcularCosto\" is 20 which is greater than 10 authorized.",
+      "effort": "20min",
+      "debt": "20min",
+      "author": "89850618+juanpct@users.noreply.github.com",
+      "tags": [
+        "brain-overload"
+      ],
+      "creationDate": "2026-11-20T08:39:45-05:00",
+      "updateDate": "2026-11-20T09:20:33-05:00",
+      "closeDate": "2026-11-20T09:20:33-05:00",
+      "type": "CODE_SMELL",
+      "scope": "MAIN",
+      "quickFixAvailable": false,
+      "messageFormattings": [],
+      "codeVariants": [],
+      "cleanCodeAttribute": "FOCUSED",
+      "cleanCodeAttributeCategory": "ADAPTABLE",
+      "impacts": [
+        {
+          "softwareQuality": "MAINTAINABILITY",
+          "severity": "HIGH"
+        }
+      ],
+      "issueStatus": "FIXED",
+      "prioritizedRule": false,
+      "fromSonarQubeUpdate": false,
+      "internalTags": [],
+      "linkedTicketStatus": "NOT_LINKED"
+    }
+  ],
+  "components": [
+    {
+      "key": "envios-service",
+      "enabled": true,
+      "qualifier": "TRK",
+      "name": "envios-service",
+      "longName": "envios-service"
+    },
+    {
+      "key": "envios-service:src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+      "enabled": true,
+      "qualifier": "FIL",
+      "name": "ServicioCalculoEnvio.java",
+      "longName": "src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java",
+      "path": "src/main/java/co/edu/ufps/envios/ServicioCalculoEnvio.java"
+    }
+  ],
+  "facets": []
+}
