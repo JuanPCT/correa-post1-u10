@@ -12,7 +12,7 @@ JaCoCo publica HTML y XML en `target/site/jacoco/`.
 
 ## Hallazgo y refactorización
 
-El baseline separa las decisiones por tipo de envío en un solo método con 19 decisiones explícitas, CC inicial 20 (1 más 19). La refactorización extrae Strategy por tipo y deja el servicio como selector del algoritmo; las decisiones propias de cada precio permanecen localizadas y se prueban con límites. `diagnostico-estatico.md` registra el cálculo estático reproducible y los datos medidos de JaCoCo antes y después.
+El baseline separa las decisiones por tipo de envío en un solo método con 19 decisiones explícitas, CC inicial 20 (1 más 19). La refactorización extrae Strategy por tipo y deja el servicio como selector del algoritmo; las decisiones propias de cada precio permanecen localizadas y se prueban con límites. JaCoCo cubre los branches de la tarifa genérica con casos base y de recargos. `diagnostico-estatico.md` registra el cálculo estático reproducible y los datos medidos de JaCoCo antes y después.
 
 ## Límites de evidencia
 
