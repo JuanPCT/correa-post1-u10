@@ -1,3 +1,5 @@
+Repositorio GitHub: https://github.com/JuanPCT/correa-post1-u10
+
 # Unidad 10 — Calidad de envíos
 
 `ServicioCalculoEnvio` inicia con un método intencionalmente complejo: mezcla tarifa por tipo, peso, distancia, fragilidad, cliente y temporada. La primera versión contiene dos pruebas de tarifa base.
